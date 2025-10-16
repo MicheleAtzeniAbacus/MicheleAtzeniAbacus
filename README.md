@@ -2,6 +2,11 @@
   <img src="https://github.com/MicheleAtzeniAbacus/MicheleAtzeniAbacus/raw/main/assets/dev.gif" alt="Hi, I'm Michele 👋 I'm an 🚀 Italian developer 🚀
 </p>
 
+### :man_technologist: &nbsp;About Me :
+
+- 🔭 I’m contributing to build eHealth systems
+- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-atzeni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michele-atzeni-458292153)
+
 ---
 
 ### 🚀 &nbsp;Tech Stack :
@@ -19,7 +24,6 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL " width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/sqlalchemy/sqlalchemy-original.svg" title="SQLAlchemy" alt="SQLAlchemy " width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/digitalocean/digitalocean-original.svg" title="DO" alt="DO " width="40" height="40"/>&nbsp; 
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma " width="40" height="40"/>&nbsp; 
 </p>
 
