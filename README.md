@@ -2,10 +2,12 @@
   <img src="https://github.com/MicheleAtzeniAbacus/MicheleAtzeniAbacus/raw/main/assets/dev.gif" alt="Hi, I'm Michele 👋 I'm an 🚀 Italian developer 🚀
 </p>
 
+---
+
 ### :man_technologist: &nbsp;About Me :
 
 - 🔭 I’m contributing to build eHealth systems
-- 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-atzeni-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/michele-atzeni-458292153)
+- 📫 How to reach me: &nbsp; [Linkedin](https://www.linkedin.com/in/michele-atzeni-458292153)
 
 ---
 
