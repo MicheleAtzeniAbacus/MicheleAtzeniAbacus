@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://github.com/MicheleAtzeniAbacus/MicheleAtzeniAbacus/raw/main/assets/dev.gif" alt="Hi, I'm Michele 👋 I'm an 🚀 Italian developer 🚀" />
-</p>
-
 ---
 
 ### :man_technologist: &nbsp;About Me :
